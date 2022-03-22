@@ -1,0 +1,109 @@
+body {
+  margin: 0;
+  text-align: center;
+  background-color: #FDEFF4;
+}
+
+h1 {
+  margin-top: 0;
+}
+.h1{
+  font-size: 60px;
+  font-family: 'Sacramento', cursive;
+  font-weight: lighter;
+  font-style: italic;
+  color: #FF7BA9;
+}
+.p{
+  font-size: 30px;
+  font-family: 'Sacramento', cursive;
+  font-weight: lighter;
+  color: #FF7BA9;
+  margin-top: 0;
+}
+div {
+  background-color: #FDEFF4;
+  text-align: center;
+}
+
+.first{
+  padding: 10px;
+  position: relative;
+  padding-top: 50px;
+}
+.para1{
+  position: absolute;
+  left: 630px;
+  top: 600px;
+  font-size: 15px;
+}
+.p1{
+  font-size: 20px;
+}
+.b{
+  color: red;
+}
+.b1{
+  color: red;
+}
+.pic1{
+  position: relative;
+  right: 250px;
+}
+.fourth{
+  padding: 0;
+}
+.pic3{
+  position: relative;
+  left: 250px;
+}
+.para3{
+  font-size: 15px;
+  position: absolute;
+  top: 1580px;
+right: 633px;
+}
+.p2{
+  color: red;
+  font-style: italic;
+}
+hr{
+  border-style: none;
+    border-top-style: dotted;
+    width: 5%;
+    border-color: grey;
+    border-top-width: 5px;
+}
+.fifth{
+    background-color: #FDEFF4;
+    padding: 20px;
+}
+.m{
+  color: red;
+}
+.mm{
+  font-family: 'Sacramento', cursive;
+  font-weight: lighter;
+  color: #FF7BA9;
+  font-size: 30px;
+}
+.l1{
+  font-family: 'Sacramento', cursive;
+  font-weight: lighter;
+  color: #FF7BA9;
+  font-size: 30px;
+}
+.l2{
+  font-family: 'Sacramento', cursive;
+  font-weight: lighter;
+  color: #FF7BA9;
+}
+.l4{
+  color: red;
+}
+.form{
+    background-color: #FDEFF4;
+    position: relative;
+left: 620px;
+top: 130px;
+}
